@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- I’m currently learning PLC
+- I’m currently working on nothing but planning for the future
+- EE engineer at AUT
+- just enjoy your road
+- my E-Mail: mdehghanif@aut.ac.ir
 <!--
 **MDehghaniF/MDehghaniF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
