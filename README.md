@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDehghaniF&layout=compact&theme=algolia" alt="MDehghaniF" /> 
+</p>
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=MDehghaniF&show_icons=true&theme=algolia"/>
+</p>
