@@ -1,6 +1,4 @@
-### Hi there 👋
-- I’m currently learning PLC
-- I’m currently planning for the future
+### Hi there
 - EE engineer at AUT
 - just enjoy your road
 - my E-Mail: mdehghanif@aut.ac.ir
