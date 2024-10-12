@@ -1,5 +1,5 @@
 ### Hi there
-- EE engineer at AUT
+- EE Student at AUT
 - just enjoy your road
 - my E-Mail: mdehghanif@aut.ac.ir
 <!--
