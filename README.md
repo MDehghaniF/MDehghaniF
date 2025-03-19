@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MDehghaniF&hide_progress=true" alt="MDehghaniF" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=MDehghaniF&show_icons=true&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MDehghaniF&show_icons=true"/>
 </p>
 
 <!--
